@@ -29,7 +29,7 @@ Elevate your travel experience with Codex-Rental’s Vespa Scooter service! Perf
   Set rental coordinates in the config file to specify where users can pick up and drop off the Vespa scooters.
 
 ### 📹 Preview
-Watch how it works in our demo video: [YouTube]coming soon
+Watch how it works in our demo video: [YouTube](https://youtu.be/yHsJ7BPqu-o)
 
 ### 🛒 Book Now
 Reserve your Vespa scooter: [Tebex](https://customcodex-shop.tebex.io/package/6399175)
