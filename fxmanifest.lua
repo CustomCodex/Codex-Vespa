@@ -1,7 +1,9 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'Your Name'
+lua54 'yes'
+
+author 'CustomCodex'
 description 'Vespa Rental Script'
 version '1.0.0'
 
