@@ -35,5 +35,5 @@ Watch how it works in our demo video: [YouTube](https://youtu.be/yHsJ7BPqu-o)
 Reserve your Vespa scooter: [Tebex](https://customcodex-shop.tebex.io/package/6399175)
 
 ### 🔗 Source Code
-Access our system’s source code: [GitHub]((https://github.com/CustomCodex/Codex-Vespa)
+Access our system’s source code: [GitHub](https://github.com/CustomCodex/Codex-Vespa)
 
